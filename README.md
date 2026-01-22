@@ -34,14 +34,15 @@ Este projeto foi construído utilizando padrões de arquitetura modernos para ga
     * **Interfaces:** Garantindo contratos sólidos entre camadas.
     * **Service:** Centralização das regras de negócio e cálculos de saldo.
     * **Observers:** Utilizados para gatilhos de eventos após doações.
-<img width="800" height="925" alt="image" src="https://github.com/user-attachments/assets/e738cc0d-a8be-4cb4-8e37-d55371e6c854" /><br><br>
-<img width="2256" height="930" alt="image" src="https://github.com/user-attachments/assets/523ef75f-d5f8-4989-be05-7e21467d37a6" /><br><br>
-<img width="2328" height="930" alt="image" src="https://github.com/user-attachments/assets/3ce56bdb-558e-4e13-ae0e-45fb9cbf7993" /><br><br>
-<img width="2299" height="929" alt="image" src="https://github.com/user-attachments/assets/c70afe7b-7d05-4088-9c5e-97a5212c0027" /><br><br>
-<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/6ff552c9-ee17-4050-8bd7-c72e97620951" /><br><br>
-<img width="1920" height="932" alt="image" src="https://github.com/user-attachments/assets/e5deee18-8644-423d-af98-16f2f4a1bb78" /><br><br>
-<img width="2133" height="930" alt="image" src="https://github.com/user-attachments/assets/4399eba6-f049-40d6-ba18-69be9360ba0a" /><br><br>
-<img width="2368" height="931" alt="image" src="https://github.com/user-attachments/assets/70abc9e3-141c-424f-b8b8-9d55f3de55af" />
+<img width="800" height="900" alt="image" src="https://github.com/user-attachments/assets/e738cc0d-a8be-4cb4-8e37-d55371e6c854" /><br><br>
+<img width="800" height="900" alt="image" src="https://github.com/user-attachments/assets/29896384-8535-4737-8ecb-cc92fd120934" /><br><br>
+<img width="800" height="900" alt="image" src="https://github.com/user-attachments/assets/7d9c2051-1cc8-4d34-9f43-e2b6e36ed98e" /><br><br>
+<img width="800" height="900" alt="image" src="https://github.com/user-attachments/assets/b0e11b65-94a5-4c09-a54a-98259079fd42" /><br><br>
+<img width="800" height="900" alt="image" src="https://github.com/user-attachments/assets/6ff552c9-ee17-4050-8bd7-c72e97620951" /><br><br>
+<img width="800" height="900" alt="image" src="https://github.com/user-attachments/assets/e5deee18-8644-423d-af98-16f2f4a1bb78" /><br><br>
+<img width="800" height="900" alt="image" src="https://github.com/user-attachments/assets/2012808d-b0a0-4535-9b21-44562ee2b134" /><br><br>
+<img width="800" height="900" alt="image" src="https://github.com/user-attachments/assets/8fbbfe56-2806-45dd-9478-519a4be2eb22" />
+
 
 
 
