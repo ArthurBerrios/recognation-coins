@@ -34,3 +34,7 @@ Este projeto foi construído utilizando padrões de arquitetura modernos para ga
     * **Interfaces:** Garantindo contratos sólidos entre camadas.
     * **Service:** Centralização das regras de negócio e cálculos de saldo.
     * **Observers:** Utilizados para gatilhos de eventos após doações.
+<img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/e738cc0d-a8be-4cb4-8e37-d55371e6c854" /><br>
+<img width="1908" height="878" alt="image" src="https://github.com/user-attachments/assets/f502b778-738c-4fa1-baa4-62ba332fd89e" />
+
+
