@@ -34,7 +34,17 @@ Este projeto foi construído utilizando padrões de arquitetura modernos para ga
     * **Interfaces:** Garantindo contratos sólidos entre camadas.
     * **Service:** Centralização das regras de negócio e cálculos de saldo.
     * **Observers:** Utilizados para gatilhos de eventos após doações.
-<img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/e738cc0d-a8be-4cb4-8e37-d55371e6c854" /><br>
-<img width="1908" height="878" alt="image" src="https://github.com/user-attachments/assets/f502b778-738c-4fa1-baa4-62ba332fd89e" />
+<img width="800" height="925" alt="image" src="https://github.com/user-attachments/assets/e738cc0d-a8be-4cb4-8e37-d55371e6c854" /><br><br>
+<img width="2256" height="930" alt="image" src="https://github.com/user-attachments/assets/523ef75f-d5f8-4989-be05-7e21467d37a6" /><br><br>
+<img width="2328" height="930" alt="image" src="https://github.com/user-attachments/assets/3ce56bdb-558e-4e13-ae0e-45fb9cbf7993" /><br><br>
+<img width="2299" height="929" alt="image" src="https://github.com/user-attachments/assets/c70afe7b-7d05-4088-9c5e-97a5212c0027" /><br><br>
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/6ff552c9-ee17-4050-8bd7-c72e97620951" /><br><br>
+<img width="1920" height="932" alt="image" src="https://github.com/user-attachments/assets/e5deee18-8644-423d-af98-16f2f4a1bb78" /><br><br>
+<img width="2133" height="930" alt="image" src="https://github.com/user-attachments/assets/4399eba6-f049-40d6-ba18-69be9360ba0a" /><br><br>
+<img width="2368" height="931" alt="image" src="https://github.com/user-attachments/assets/70abc9e3-141c-424f-b8b8-9d55f3de55af" />
+
+
+
+
 
 
